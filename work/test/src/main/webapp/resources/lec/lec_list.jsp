@@ -79,6 +79,7 @@
     <div id="wrap">
         <div id="content">
             <div class="inner">
+            <!-- 여기부터 내부 -->
 				 <section id="movie">
         <div class="container">
             <div class="row">
@@ -86,10 +87,10 @@
                 <div class="movie">
                     <div class="movie_title">
                         <ul class="clearfix">
-                            <li class="active"><a href="#">박스오피스</a></li>
-                            <li><a href="#">최신개봉작</a></li>
-                            <li><a href="#">상영예정작</a></li>
-                            <li><a href="#">큐레이션</a></li>
+                            <li class="active"><a href="#">종류1</a></li>
+                            <li><a href="#">종류2</a></li>
+                            <li><a href="#">종류3</a></li>
+                            <li><a href="#">종류4</a></li>
                         </ul>
                     </div>
                     <div class="movie_chart">
@@ -593,7 +594,7 @@
             </div>
         </div>
     </section>  
-    <!-- //movie -->
+    		<!-- 내부 끝 -->
             </div>
         </div>
     </div>
